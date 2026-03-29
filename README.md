@@ -14,10 +14,6 @@ Dieses Repo wächst mit – neue Komponenten kommen regelmäßig dazu.
 │   ├── index.html
 │   └── css/
 │       └── style.css
-└── nav-uebung/                 ← Navigation (Work in Progress)
-    ├── index.html
-    └── css/
-        └── style.css
 ```
  
 ---
